@@ -15,7 +15,8 @@ run: TestTxHandler.class
 
 clean:
 	rm -f TestTxHandler.class
-
+	rm -f TestIsValidTx.class
+	rm -f TxHandler.class
 .PHONY: all run
 
 all: run
