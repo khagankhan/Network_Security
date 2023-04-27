@@ -17,6 +17,19 @@ Clone the repository to your local machine:
 
 `git clone https://github.com/khagankhan/Network_Security.git`
 
+## Dependencies
+
+This project requires Java Development Kit (JDK) 8 or higher. Make sure to have it installed on your system.
+
+The project also requires the `rsa.jar` file for using the RSAKey class. Make sure to have it in your project directory.
+
+## Files Provided
+
+- `Transaction.java`: Represents a ScroogeCoin transaction with inner classes for transaction inputs and outputs.
+- `UTXO.java`: Represents an unspent transaction output.
+- `UTXOPool.java`: Represents the current set of outstanding UTXOs.
+- `rsa.jar`: Contains the RSAKey and RSAKeyPair classes for handling public/private key pairs.
+
 ## Usage
 
 1. Complete the implementation of `TxHandler.java`. Your implementation should be able to validate transactions and update the UTXOPool.
