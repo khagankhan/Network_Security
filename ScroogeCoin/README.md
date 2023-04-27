@@ -25,7 +25,7 @@ Clone the repository to your local machine:
 
 ## Implementation Details
 
-The main task is to implement the `handleTxs` method in `TxHandler.java`. This method should return a mutually valid transaction set of maximal size and update the internal UTXOPool accordingly.
+The main task is to implement the `handleTxs` method in `TxHandler.java`. This method should return a mutually valid transaction set of maximal size and update the internal UTXOPool accordingly. For more information check Task.pdf
 
 To achieve this, consider the following steps:
 
