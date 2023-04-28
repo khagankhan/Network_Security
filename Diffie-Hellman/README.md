@@ -13,7 +13,7 @@ This repository contains a demonstration of the Diffie-Hellman (DH) key exchange
 
 1. Clone this repository to your local machine.
 2. Open three separate terminal windows.
-3. In the first terminal window, navigate to the repository folder and run the server (Bob) using the command: `python3 client.py`
+3. In the first terminal window, navigate to the repository folder and run the server (Bob) using the command: `python3 server.py` 
 4. In the second terminal window, navigate to the repository folder and run Trudy using the command: `python3 trudy.py`
 5. In the third terminal window, navigate to the repository folder and run the client (Alice) using the command: `python3 client.py`
 
