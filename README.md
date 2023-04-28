@@ -31,6 +31,7 @@ Throughout the course, we'll cover a wide range of topics, including but not lim
 This repository will host various projects related to network security, such as the ScroogeCoin Transaction Handler. As new projects are added, they will be listed here for easy reference.
 
 1. [ScroogeCoin Transaction Handler](https://github.com/khagankhan/Network_Security/tree/main/ScroogeCoin/README.md)
+2. [Diffie-Hellman Key Exchange with MITM Attack Demonstration](https://github.com/khagankhan/Network_Security/blob/main/Diffie-Hellman/README.md)
 
 ## Getting Started
 
