@@ -32,6 +32,7 @@ This repository will host various projects related to network security, such as 
 
 1. [ScroogeCoin Transaction Handler](https://github.com/khagankhan/Network_Security/tree/main/ScroogeCoin/README.md)
 2. [Diffie-Hellman Key Exchange with MITM Attack Demonstration](https://github.com/khagankhan/Network_Security/blob/main/Diffie-Hellman/README.md)
+3. [Secret Key Encryption and Decryption](https://github.com/khagankhan/Network_Security/blob/main/Secret_Key/README.md)
 
 ## Getting Started
 
